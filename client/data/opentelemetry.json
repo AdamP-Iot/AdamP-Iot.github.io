@@ -1,1 +1,0 @@
-{"id":"opentelemetry","paragraphs":["Připravuji návrh bakalářské práce o tom, jak z telemetrie aplikace rozpoznat podezřelé chování. Příkladem je série neúspěšných přihlášení v krátkém čase.","Pomocí OpenTelemetry chci sbírat provozní data. Nad nimi navrhuji pravidla pro detekci anomálií a rozhraní, v němž půjde prozkoumat okolnosti konkrétní události."],"links":[]}
