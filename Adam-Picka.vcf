@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Picka;Adam;;;
+FN:Adam Picka
+EMAIL;TYPE=INTERNET:adam.picka2@seznam.cz
+TEL;TYPE=CELL:+420773775849
+URL:https://github.com/AdamP-Iot
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/adam-picka-798194388/
+END:VCARD
